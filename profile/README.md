@@ -2,7 +2,7 @@
   <p style="text-align: center;">Project repository: <a href="https://github.com/geosenesm">https://github.com/geosenesm</a>
   <p style="text-align: center;">Project user guide: <a href="https://github.com/GeoSenEsm/.github/blob/main/profile/GeoSenEsm__User_Guide.pdf"> User Guide</a> 
    <p>Contact: Put an issue request in github or through https://urbeat.site/kontakt/ </p>
- </p>GeoSenEsm belongs to AMU Adam Mickiewicz University (to maintain mobile app for research in EU) and Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS) (to maintain mobile app for research in China) </div></div>
+ </p>GeoSenEsm mobile app belongs to AMU Adam Mickiewicz University (to maintain mobile app for research in EU) and Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS) (to maintain mobile app for research in China) </div></div>
   <p></p>
    <p>Autorzy: Mateusz Dokowicz, Paweł Felcyn, Mikołaj Gawor, Wiktoria Grzesik, Marcin Witkowski
 </p>
