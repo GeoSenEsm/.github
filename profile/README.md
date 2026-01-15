@@ -4,7 +4,7 @@
    <p>Contact: Put an issue request in github or through https://urbeat.site/kontakt/ </p>
  </p>GeoSenEsm mobile app belongs to AMU Adam Mickiewicz University (to maintain mobile app for research in EU) and Institute of Atmospheric Physics, Chinese Academy of Sciences (IAP/CAS) (to maintain mobile app for research in China) </div></div>
   <p></p>
-   <p>Autorzy: Mateusz Dokowicz, Paweł Felcyn, Mikołaj Gawor, Wiktoria Grzesik, Marcin Witkowski
+   <p>Authors: Mateusz Dokowicz, Paweł Felcyn, Mikołaj Gawor, Wiktoria Grzesik, Marcin Witkowski
 </p>
   <p></p>
   <div id="div_block-7-147" class="ct-div-block" style="width: 15%;"></div></div>
