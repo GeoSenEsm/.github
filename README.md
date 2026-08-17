@@ -18,11 +18,11 @@ application codebase.
 
 
 | Path                                       | Purpose                                                     |
-| ------------------------------------------ | ----------------------------------------------------------- |
+|--------------------------------------------| ----------------------------------------------------------- |
 | `README.md`                                | This file — org overview for developers                     |
 | `profile/README.md`                        | GitHub organization profile (rendered on the org home page) |
 | `profile/GeoSenEsm__User_Guide.pdf`        | End-user / administrator guide                              |
-| `profile/GeoSenEsm__User_Guide_v1.0.0.pdf` | Versioned user-guide snapshot                               |
+| `profile/AddingSensor.pdf`                 | Guide for adding a new sensor type via the admin panel's profile-driven GATT engine |
 | `profile/geosenesm.png`                    | Branding asset for the org profile                          |
 | `LICENSE`                                  | License for materials in this repository                    |
 
@@ -34,7 +34,7 @@ application codebase.
 └── profile/
     ├── README.md                      # org landing page content
     ├── GeoSenEsm__User_Guide.pdf
-    ├── GeoSenEsm__User_Guide_v1.0.0.pdf
+    ├── AddingSensor.pdf
     └── geosenesm.png
 ```
 
